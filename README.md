@@ -1,3 +1,5 @@
+<img alt="250" src="./static/img/header.png" />
+
 # Covid19 Explicado
 O covid19 Explicado tem o intuito de esclarecer as inverdades criadas diante do vírus que estamos enfrentando na atual pandemia. Este repositório irá concentrar documentações com fontes verificadas sobre tópicos que abordam o vírus.
 
